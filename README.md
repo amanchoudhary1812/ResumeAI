@@ -6,9 +6,9 @@ The application extracts text from a resume PDF, preprocesses the text, calculat
 
 ## 🚀 Live Demo
 
-**Live App:** (https://ai-resume-analyzer18.streamlit.app/)
+**Live App:** https://ai-resume-analyzer18.streamlit.app/
 
-**GitHub:** (https://github.com/amanchoudhary1812/ResumeAI)
+**GitHub:** https://github.com/amanchoudhary1812/ResumeAI
 
 ---
 
